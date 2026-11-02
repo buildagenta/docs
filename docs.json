@@ -84,16 +84,10 @@
     "href": "https://buildagenta.com"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Discord",
-        "href": "https://discord.gg/mNWM8aYR35"
-      }
-    ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://buildagenta.com/dashboard"
+      "href": "https://app.buildagenta.com"
     }
   },
   "contextual": {
@@ -111,8 +105,6 @@
   "footer": {
     "socials": {
       "linkedin": "https://www.linkedin.com/company/buildagenta/",
-      "discord": "https://discord.gg/mNWM8aYR35",
-      "reddit": "https://reddit.com/r/A2ANet",
       "github": "https://github.com/buildagenta"
     }
   }
