@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "A2A Net",
+  "name": "Agenta",
   "colors": {
     "primary": "#1e4694",
     "light": "#4a6bb3",
@@ -71,8 +71,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "A2A Net",
-          "href": "https://a2anet.com",
+          "anchor": "Agenta",
+          "href": "https://buildagenta.com",
           "icon": "home"
         }
       ]
@@ -81,7 +81,7 @@
   "logo": {
     "light": "/logo/transparent.png",
     "dark": "/logo/transparent.png",
-    "href": "https://a2anet.com"
+    "href": "https://buildagenta.com"
   },
   "navbar": {
     "links": [
@@ -93,7 +93,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://a2anet.com/dashboard"
+      "href": "https://buildagenta.com/dashboard"
     }
   },
   "contextual": {
@@ -113,7 +113,7 @@
       "linkedin": "https://linkedin.com/company/a2anet",
       "discord": "https://discord.gg/mNWM8aYR35",
       "reddit": "https://reddit.com/r/A2ANet",
-      "github": "https://github.com/a2anet"
+      "github": "https://github.com/buildagenta"
     }
   }
 }
